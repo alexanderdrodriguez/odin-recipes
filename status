@@ -1,0 +1,23 @@
+[33mcommit 6011ee35d9de1d10c33e2d639f623b4bef37fa5d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: alexanderdrodriguez <saltinbound@gmail.com>
+Date:   Tue Dec 28 19:29:55 2021 -0500
+
+    Edit all recipes html files including the hompage
+
+[33mcommit 0b5ccf8666521ba813d19adadf8f71162ec3a3f4[m
+Author: alexanderdrodriguez <saltinbound@gmail.com>
+Date:   Tue Dec 28 18:48:03 2021 -0500
+
+    Edit Index and added Lasagna recipe
+
+[33mcommit 4a1116a369b3c9eb06a27aa3bf8d40fb2a6219cc[m
+Author: alexanderdrodriguez <saltinbound@gmail.com>
+Date:   Tue Dec 28 18:40:59 2021 -0500
+
+    Edit README.md and add index.html
+
+[33mcommit 2c4085e06681c45faecd6733d4ed4e240c1e910a[m
+Author: alexanderdrodriguez <95264055+alexanderdrodriguez@users.noreply.github.com>
+Date:   Tue Dec 28 18:18:00 2021 -0500
+
+    Initial commit
